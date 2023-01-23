@@ -1,14 +1,5 @@
+
 {
-  "transactions": [
-    {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 2,{
   "bots": [
     {
       "id": 101,
@@ -21,6 +12,18 @@
       "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:10.800Z",
       "updated_at": "2018-10-02T19:55:10.800Z"
+    },
+    {
+      "id": 102,
+      "name": "RyM-66",
+      "health": 86,
+      "damage": 36,
+      "armor": 77,
+      "bot_class": "Medic",
+      "catchphrase": "0110011100000100011110100110011000011001",
+      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
     },
     {
       "id": 103,
@@ -71,6 +74,18 @@
       "updated_at": "2018-10-02T19:55:10.887Z"
     },
     {
+      "id": 107,
+      "name": "XSf-63",
+      "health": 97,
+      "damage": 26,
+      "armor": 58,
+      "bot_class": "Support",
+      "catchphrase": "0010110001011100111100101010101000",
+      "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.899Z",
+      "updated_at": "2018-10-02T19:55:10.899Z"
+    },
+    {
       "id": 108,
       "name": "m-76",
       "health": 65,
@@ -83,6 +98,18 @@
       "updated_at": "2018-10-02T19:55:10.915Z"
     },
     {
+      "id": 109,
+      "name": "hjk-40",
+      "health": 75,
+      "damage": 84,
+      "armor": 31,
+      "bot_class": "Witch",
+      "catchphrase": "11010100110000100001110001100000010111101000001100",
+      "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.940Z",
+      "updated_at": "2018-10-02T19:55:10.940Z"
+    },
+    {
       "id": 110,
       "name": "Nb-70",
       "health": 64,
@@ -93,6 +120,18 @@
       "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.004Z",
       "updated_at": "2018-10-02T19:55:11.004Z"
+    },
+    {
+      "id": 111,
+      "name": "ya-81",
+      "health": 56,
+      "damage": 22,
+      "armor": 92,
+      "bot_class": "Defender",
+      "catchphrase": "100000011001011111110100110001010101100111001100",
+      "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.017Z",
+      "updated_at": "2018-10-02T19:55:11.017Z"
     },
     {
       "id": 112,
@@ -117,6 +156,18 @@
       "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.046Z",
       "updated_at": "2018-10-02T19:55:11.046Z"
+    },
+    {
+      "id": 114,
+      "name": "lGp-46",
+      "health": 67,
+      "damage": 21,
+      "armor": 82,
+      "bot_class": "Medic",
+      "catchphrase": "001101000100001110001111010100110000000110000101",
+      "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.062Z",
+      "updated_at": "2018-10-02T19:55:11.062Z"
     },
     {
       "id": 115,
@@ -887,6 +938,18 @@
       "updated_at": "2018-10-02T19:55:12.190Z"
     },
     {
+      "id": 179,
+      "name": "qX-29",
+      "health": 49,
+      "damage": 88,
+      "armor": 30,
+      "bot_class": "Assault",
+      "catchphrase": "000000001000011111101101011101101010111011000110",
+      "avatar_url": "https://robohash.org/quolaborumnisi.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.207Z",
+      "updated_at": "2018-10-02T19:55:12.207Z"
+    },
+    {
       "id": 180,
       "name": "\\-94",
       "health": 75,
@@ -1140,81 +1203,5 @@
     }
   ]
 }
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
-    },
-    {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
-    },
-    {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
-    },
-    {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
-    },
-    {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
-    },
-    {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
-    },
-    {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
-    },
-    {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    }
-  ]
-}
-
+db.json
+Displaying db.json.
